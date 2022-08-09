@@ -1,1 +1,2 @@
-# Synthethic Aperture Radar (SAR) Tutorial - (Le français précède)
+# Radar à synthèse d'ouverture (RSO) - Un tutoriel (English follows)
+# Synthethic Aperture Radar (SAR) - A tutorial (Le français précède)
