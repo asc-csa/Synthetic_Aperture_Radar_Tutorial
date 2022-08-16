@@ -17,7 +17,7 @@ Le fichier de formes est tiré du lien suivant : http://www.naturalearthdata.com
 # Synthethic Aperture Radar (SAR) - A tutorial (Le français précède)
 The following tutorial was created to assist users with the usage of RADARSAT mission data. This tutorial is geared towards beginners and offers a step by step guide to direct users with plotting the raster files and shapefiles of RADARSAT missions in python and QGIS. On this page the following two folders can be found: 
 * Option 1 - QGIS:
-  1) A pdf file with a step by step guide on using QGIS and uploading a raster and a vector file.
+  1) A file with a step by step guide on using QGIS and uploading a raster and a vector file.
   2) An example of a plotted raster file in QGIS from British Columbia wild fires taken by RCM3 - OK2080033 (The link can be found below).  
 
 * Option 2 - Python: 
