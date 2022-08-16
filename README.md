@@ -1,3 +1,7 @@
+﻿<p align="center">
+    <img src="https://www.asc-csa.gc.ca/images/recherche/tiles/50d50dc4-45c1-4933-8a41-b312472b3bb3.jpg"  height="300">
+</p>
+
 <p align="center">
     <a href="#stars">
         <img alt="Étoiles sur GitHub | GitHub Repo stars" src="https://img.shields.io/github/stars/asc-csa/Synthetic_Aperture_Radar_Tutorial">
